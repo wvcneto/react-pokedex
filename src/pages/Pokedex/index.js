@@ -10,7 +10,7 @@ export default function Pokedex() {
     <>
       <NavBar />
       <Content>
-        <Title></Title>
+        <Title>Generation I</Title>
         <CardGrid />
       </Content>
     </>

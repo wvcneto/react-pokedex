@@ -2,7 +2,7 @@ import React from 'react'
 
 import './styles.css'
 
-export default function PokeballLoader() {
+const PokeballLoader = () => {
   return (
     <div className="poke_container">
       <div className="pokeball  ball">
@@ -19,3 +19,5 @@ export default function PokeballLoader() {
     </div>
   )
 }
+
+export default PokeballLoader

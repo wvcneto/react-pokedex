@@ -2,10 +2,12 @@ import React from 'react'
 
 import { Nav } from './styles'
 
-export default function NavBar() {
+const NavBar = () => {
   return (
     <>
       <Nav />
     </>
   )
 }
+
+export default NavBar

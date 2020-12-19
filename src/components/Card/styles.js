@@ -26,7 +26,7 @@ export const Content = styled.div`
   align-items: center;
   flex-direction: column;
   width: 100%;
-  height: 100%;
+  height: 320px;
   margin: 0.5rem 1rem;
   padding: 1rem;
 `
@@ -35,7 +35,7 @@ export const Name = styled.h2`
 `
 
 export const Image = styled.img`
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 160px;
+  max-height: 160px;
   margin: 1rem;
 `
